@@ -1,0 +1,39 @@
+*{
+    margin: 1%;
+    padding: 0;
+   
+    
+}
+
+.c{
+    margin-top: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+  width: 100%;
+  background-image: linear-gradient(rgb(241, 241, 241),rgb(243, 243, 243));
+ 
+}
+
+input{
+    width: 100%;
+}
+ a{
+    text-decoration: none;
+    color:rgb(226, 17, 17);
+    text-align: center;
+   margin-bottom: 4%;
+}
+button{
+    background-image: linear-gradient(to right, #06f0d1 0%, #00d3e2 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-weight: 500;
+    margin-bottom:5%;
+    margin-top: 3%;
+}
+img{
+    width: 400px;
+    float: right;
+}

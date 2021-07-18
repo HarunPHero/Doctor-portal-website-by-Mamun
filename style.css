@@ -1,0 +1,138 @@
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(168, 168, 168);
+    
+}
+
+
+
+header{
+    background-image: url(images/Mask\ Group\ 2.png);
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
+nav li{
+    padding: 10px;
+
+}
+.nav-link-1{
+    background-image: linear-gradient(to right, #06f0d1 0%, #00d3e2 100%) ;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+nav ul{
+    margin-left: 30%;
+    
+
+}
+.icon{
+    width: 80px;
+    
+}
+
+.details{
+    font-size: 14px;
+    color: white;
+}
+.About{
+    background-image: linear-gradient(to right, #06f0d1 0%, #06dbbf 0%);
+}
+.About-2{
+    background-color: rgb(89, 94, 116);
+}
+button{
+    background-image: linear-gradient(to right, #06f0d1 0%, #00d3e2 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-weight: 500;
+    margin-bottom: 20%;
+}
+.c{
+    align-items: center;
+    text-align: center;
+}
+#doctor{
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.671), rgba(0, 0, 0, 0.616)), url("images/Mask\ Group\ 4.png");
+    background-size: cover;
+    height: 360px;
+    color: white;
+    margin-top: 12%;
+    display: block;
+    margin-bottom: 10%;
+    overflow: scroll;
+}
+.container .card-footer{
+    display: flex;
+   margin: 5%;
+   border: none;
+   background: white;
+}
+
+.container .card-footer img{
+    width: 70px;
+    margin-right: 7%;
+}
+.s-header{
+    text-align: center;
+}
+.s-header-1{
+    text-align: center;
+    color: white;
+}
+input{
+    width: 60%;
+ padding: 2%;
+ margin-bottom:15% ;
+ border-radius: 1px;
+ border: 0;
+}
+.input{
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.774), rgba(0, 0, 0, 0.801)), url("images/Mask\ Group\ 4.png");
+    background-size: cover;
+    text-align: center;
+    padding: 5%;
+
+}
+.details-2{
+    position: absolute;
+   height:265px;
+     width:296px;
+    padding: 10%;
+   display: none;
+    border-radius: 5px;
+   
+
+}
+.frame  {
+    position: relative;
+    overflow: hidden;
+    }
+.frame:hover .details-2{
+    display: block;
+    background-image: linear-gradient(to right, #06f0d1 0%, #00d3e2 100%);
+    align-items: center;
+   
+}
+
+footer{
+    background-image: url(images/footer-bg.png);
+    background-size: cover;
+}
+footer small{
+    color: gray;
+    font-size: 23px;
+    margin-left: 20%;
+    padding-bottom: 5%;
+   
+  }
+ .s img{
+     width: 50px;
+
+ }
+
+
+
